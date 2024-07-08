@@ -7,9 +7,9 @@ This project utilizes a U-Net deep learning architecture to detect and delineate
 
 
 *Data Preprocessing:* Techniques to prepare seismic images for model training.
-U-Net Model Implementation: A custom U-Net model tailored for seismic horizon detection.
-Training and Evaluation: Scripts to train the U-Net model and evaluate its performance on seismic datasets.
-Visualization: Tools to visualize the detected horizons overlaid on seismic images.
+_U-Net Model Implementation:_ A custom U-Net model tailored for seismic horizon detection.
+_Training and Evaluation: _Scripts to train the U-Net model and evaluate its performance on seismic datasets.
+_Visualization:_ Tools to visualize the detected horizons overlaid on seismic images.
 
 **Prerequisites**
 Python 3.9
